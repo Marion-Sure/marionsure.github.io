@@ -5,7 +5,7 @@ Marion Racheal Nyaboe Sure | Data Engineering Portfolio
 This repository contains my personal Data Engineering portfolio website, showcasing my projects, lab challenges, skills, and professional experience.
 
 Live Demo
-You can view the live portfolio here: https://marion-sure.github.io/marionsure.github.io/
+You can view the live portfolio here: https://marion-sure.github.io/Portfolio/
 
 Project Structure
 portfolio/
